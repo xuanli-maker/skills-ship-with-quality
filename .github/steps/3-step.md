@@ -24,15 +24,15 @@ Read more:
 
 1. In your repository, open the **Code** tab and make sure you are on the `main` branch.
 
-   <img width="300px" alt="confirm main branch" src="../images/main-branch.png">
+   <img width="300px" alt="confirm main branch" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/main-branch.png?raw=true">
 
 1. Open the testing workflow file at `.github/workflows/tests.yml`.
 
-   <img width="200px" alt="file navigation, tests file" src="../images/file-nav-tests-file.png">
+   <img width="200px" alt="file navigation, tests file" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/file-nav-tests-file.png?raw=true">
 
 1. Select the **Edit this file** icon.
 
-   <img width="200px" alt="file preview, edit button" src="../images/edit-file-button.png">
+   <img width="200px" alt="file preview, edit button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/edit-file-button.png?raw=true">
 
 1. Update the existing `permissions:` block (line 27) to look like the block below. This adds `code-quality: write` permission which allows publishing coverage results.
 
@@ -66,7 +66,7 @@ Read more:
 
 1. In the top right, click the **Commit Changes** button. Commit your changes directly to the `main` branch.
 
-   <img width="300px" alt="upload coverage, commit changes button" src="../images/upload-coverage-commit-changes-button.png">
+   <img width="300px" alt="upload coverage, commit changes button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/upload-coverage-commit-changes-button.png?raw=true">
 
 1. With the testing workflow updated, Mona will prepare the next step. Almost done!
 

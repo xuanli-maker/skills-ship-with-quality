@@ -22,15 +22,15 @@ Read More:
 
 1. In the top navigation, select the **Settings** tab.
 
-   <img width="300" alt="top navigation, settings tab" src="../images/top-nav-settings-tab.png">
+   <img width="300" alt="top navigation, settings tab" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/top-nav-settings-tab.png?raw=true">
 
 1. In the left sidebar, expand **Rules** and select **Rulesets**.
 
-   <img width="250" alt="left navigation, rulesets area" src="../images/left-nav-rulesets.png">
+   <img width="250" alt="left navigation, rulesets area" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/left-nav-rulesets.png?raw=true">
 
 1. Click the **New ruleset** button and select the **New branch ruleset** option.
 
-   <img width="250" alt="rulesets, new rule button" src="../images/rulesets-new-button.png">
+   <img width="250" alt="rulesets, new rule button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/rulesets-new-button.png?raw=true">
 
 1. Use the following details and selected options.
    - **Ruleset Name**: `Quality and Coverage`
@@ -39,11 +39,11 @@ Read More:
 
 1. Under **Branch Rules**, enable the option `Require code quality results`. Set the severity threshold to `Warnings and higher`.
 
-   <img width="350" alt="rule to require code quality results" src="../images/rulesets-require-coverage.png">
+   <img width="350" alt="rule to require code quality results" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/rulesets-require-coverage.png?raw=true">
 
 1. Under **Branch Rules**, enable the option `Restrict code coverage`. Set the **Minimum coverage percentage** to `80`.
 
-   <img width="350" alt="rule to require code coverage" src="../images/rulesets-restrict-code-coverage-80.png">
+   <img width="350" alt="rule to require code coverage" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/rulesets-restrict-code-coverage-80.png?raw=true">
 
 1. Scroll to the bottom and select **Create** to save the ruleset.
 
@@ -63,7 +63,7 @@ With the ruleset active, let's fix one more finding in the Mergington High codeb
 
 1. Find and click on the item titled `Comparison of identical values` to show a details page.
 
-   <img width="500px" alt="standard findings, comparison of identical values example" src="../images/standard-finding-comparison-identical-values.png">
+   <img width="500px" alt="standard findings, comparison of identical values example" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-finding-comparison-identical-values.png?raw=true">
 
 1. Click the **Generate Fix** button, then **Open pull request** button.
 
@@ -71,11 +71,11 @@ With the ruleset active, let's fix one more finding in the Mergington High codeb
 
 1. Notice the **Merge pull request** button is disabled since it is waiting for the test coverage results.
 
-   <img width="300px" alt="pull requests, test coverage comment" src="../images/pr-merge-button-disabled.png">
+   <img width="300px" alt="pull requests, test coverage comment" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/pr-merge-button-disabled.png?raw=true">
 
 1. Notice the pull request comment providing details about the Python and JavaScript test coverage.
 
-   <img width="500px" alt="pull requests, test coverage comment" src="../images/pull-request-coverage-comment.png">
+   <img width="500px" alt="pull requests, test coverage comment" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/pull-request-coverage-comment.png?raw=true">
 
 1. Click the **Ready for review** button to make it active.
 

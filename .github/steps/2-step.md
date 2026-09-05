@@ -4,7 +4,7 @@ Standard findings pointed to structural issues right where the signup complaints
 
 ### 📖 Theory: AI Feedback As You Work
 
-<img width="150px" alt="copilot icon" align="right" src="../images/copilot-icon.png">
+<img width="150px" alt="copilot icon" align="right" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/copilot-icon.png?raw=true">
 
 Code Quality uses two complementary scans to catch issues: standard findings use CodeQL rules on pull requests, while **AI findings** use a Copilot to analyze code shortly as your work.
 
@@ -29,23 +29,23 @@ Mona, there were no AI findings. Please go to step 3.
 
 1. In the top navigation, select the **Security and quality** tab.
 
-   <img width="300px" alt="security and quality tab" src="../images/top-nav-security-and-quality-tab.png">
+   <img width="300px" alt="security and quality tab" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/top-nav-security-and-quality-tab.png?raw=true">
 
 1. In the left navigation, find the **Code quality** section and select **AI findings**.
 
-   <img width="300px" alt="left nav, ai findings" src="../images/left-nav-code-quality-ai-findings.png">
+   <img width="300px" alt="left nav, ai findings" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/left-nav-code-quality-ai-findings.png?raw=true">
 
 1. In the list of AI findings, click on the item about the `activities.py` file. This will show more details, including recommended changes from Copilot.
 
-   <img width="400px" alt="standard findings" src="../images/ai-findings.png">
+   <img width="400px" alt="standard findings" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/ai-findings.png?raw=true">
 
-   <img width="400px" alt="standard findings" src="../images/ai-finding-activities-changes.png">
+   <img width="400px" alt="standard findings" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/ai-finding-activities-changes.png?raw=true">
 
 1. In the top right, expand the button and select the **Open pull request** option. In the form, accept the defaults and select **Commit change**.
 
-   <img width="300px" alt="AI finding pull request button" src="../images/ai-findings-pr-button.png">
+   <img width="300px" alt="AI finding pull request button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/ai-findings-pr-button.png?raw=true">
 
-   <img width="300px" alt="AI finding pull request form" src="../images/ai-findings-pr-form.png">
+   <img width="300px" alt="AI finding pull request form" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/ai-findings-pr-form.png?raw=true">
 
 1. On the newly created pull request, click the **Ready for review** button to make it active.
 

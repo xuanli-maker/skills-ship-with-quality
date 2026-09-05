@@ -6,7 +6,7 @@ The issue tracker has several reports pointing at the same signup flow, but it d
 
 ### 📖 Theory: Finding Quality Issues
 
-<img height="300px" alt="org view of quality findings" align="right" src="../images/org-code-quality.png">
+<img height="300px" alt="org view of quality findings" align="right" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/org-code-quality.png?raw=true">
 
 Code Quality gives you maintainability and reliability findings directly in your repository.
 
@@ -38,15 +38,15 @@ Read more:
 
 1. In the top navigation, select the **Settings** tab.
 
-   <img width="300px" alt="settings tab" src="../images/top-nav-settings-tab.png">
+   <img width="300px" alt="settings tab" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/top-nav-settings-tab.png?raw=true">
 
 1. In the left sidebar, find and select **Code quality**.
 
-   <img width="300px" alt="code quality section" src="../images/left-nav-code-quality.png">
+   <img width="300px" alt="code quality section" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/left-nav-code-quality.png?raw=true">
 
 1. At the top of the page, select the **Enable code quality** button.
 
-   <img width="400px" alt="code quality enable button" src="../images/code-quality-enable-button.png">
+   <img width="400px" alt="code quality enable button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/code-quality-enable-button.png?raw=true">
 
 1. Take a moment to review the **Code Quality** page, and notice the various configuration options.
    - The toggle shows **Code Quality** is indeed enabled.
@@ -59,7 +59,7 @@ Read more:
 
    > 💡 **Tip:** You can monitor progress by selecting the **Actions** tab in the top navigation.
 
-   <img width="400px" alt="code quality first workflow" src="../images/code-quality-first-workflow.png">
+   <img width="400px" alt="code quality first workflow" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/code-quality-first-workflow.png?raw=true">
 
 <!-- 1. When the **Code Quality** analysis finishes, Mona will detect it and share the next steps. Continue to the next activity while the scan completes. -->
 
@@ -75,33 +75,33 @@ Read more:
 
 1. In the top navigation, select the **Security and quality** tab.
 
-   <img width="300px" alt="security and quality tab" src="../images/top-nav-security-and-quality-tab.png">
+   <img width="300px" alt="security and quality tab" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/top-nav-security-and-quality-tab.png?raw=true">
 
 1. In the left navigation, find the **Code quality** section and select **Standard findings**. Take a moment to review the results of this initial setup.
 
-   <img width="400px" alt="standard findings" src="../images/standard-findings.png">
+   <img width="400px" alt="standard findings" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-findings.png?raw=true">
 
 1. Try using the **Filter** bar to search the list of findings, for example by **Severity** or **Category**.
 
-   <img width="400px" alt="standard findings severity filter" src="../images/standard-findings-filter-severity.png">
+   <img width="400px" alt="standard findings severity filter" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-findings-filter-severity.png?raw=true">
 
 1. Find and click on the item titled `Commented-out code` to show a details page.
 
-   <img width="300px" alt="standard findings, commented out code entry" src="../images/standard-findings-commented-out-code-entry.png">
+   <img width="300px" alt="standard findings, commented out code entry" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-findings-commented-out-code-entry.png?raw=true">
 
 1. Click the **Show More** button to display additional details like an example problem and a recommended solution.
 
-   <img width="500px" alt="standard findings severity filter" src="../images/standard-finding-show-more-button.png">
+   <img width="500px" alt="standard findings severity filter" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-finding-show-more-button.png?raw=true">
 
 1. Click the **Generate Fix** button, wait a moment, and review the suggestion.
 
-   <img width="500px" alt="standard finding, generate fix button" src="../images/standard-finding-generate-fix-button.png">
+   <img width="500px" alt="standard finding, generate fix button" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-finding-generate-fix-button.png?raw=true">
 
 1. Click the **Open pull request** button. Use the default recommendations and press the **Commit change** button to start the draft pull request.
 
-   <img width="500px" alt="standard finding, open pull request" src="../images/standard-finding-open-pr.png">
+   <img width="500px" alt="standard finding, open pull request" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-finding-open-pr.png?raw=true">
 
-   <img width="300px" alt="standard finding, open pull request" src="../images/standard-finding-open-pr-panel.png">
+   <img width="300px" alt="standard finding, open pull request" src="https://github.com/xuanli-maker/skills-ship-with-quality/blob/main/.github/images/standard-finding-open-pr-panel.png?raw=true">
 
 1. On the newly created pull request, click the **Ready for review** button to make it active.
 
